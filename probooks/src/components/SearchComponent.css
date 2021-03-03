@@ -1,0 +1,18 @@
+.searchbox{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.books{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn_home{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 700px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
